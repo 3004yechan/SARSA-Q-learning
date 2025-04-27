@@ -2,6 +2,6 @@
 
 ![Episode Reward](./results/ep_reward.png)
 
-![이미지 설명](이미지 URL 또는 경로)
-![이미지 설명](이미지 URL 또는 경로)
-![이미지 설명](이미지 URL 또는 경로)
+![Q-value convergence](./results/q_value.png)
+![r_reward](./results/r_reward.png)
+![r_dist](./results/r_reward.png)
